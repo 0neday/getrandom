@@ -1,2 +1,2 @@
 # getrandom
-### Usage: python xlsx.py xx
+ Usage: python xlsx.py xx
